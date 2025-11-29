@@ -1,8 +1,8 @@
 ## How to use ##
 
-1.Drop `abuseipdb-ban.conf` into action config folder, such as `action.d`.
+1. Drop `abuseipdb-ban.conf` into action config folder, such as `action.d`.
 
-2.Add enable config in jail config, such as `jail.conf`.
+2. Add enable config in jail config, such as `jail.conf`.
 
 Enable Config Example:
 ```conf
